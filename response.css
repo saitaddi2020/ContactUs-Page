@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(90deg, #09203F, #537895);
+}
+.styleIt{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+button{
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+button:hover{
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+
+}
